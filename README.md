@@ -103,6 +103,11 @@ When a variable contains an unexpected value, understanding the scope chain will
   <img src="https://curriculum-content.s3.amazonaws.com/web-development/js/principles/lexical-scoping-readme/cool_party.gif" alt="Cool party!">
 </picture>
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-principles-lexical-scoping-readme/issues) or [pull-reqeust](https://github.com/learn-co-curriculum/phrg-js-principles-lexical-scoping-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-reqeust, and send them a link via Connect.
+
+
 ## Resources
 - [JavaScript: Understanding the Weird Parts - The First 3.5 Hours](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts) (Video)
 <p data-visibility='hidden'>PHRG Lexical scoping</p>
